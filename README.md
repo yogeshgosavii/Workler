@@ -1,7 +1,3 @@
-Certainly! Here's an updated **README** for your **Workler** project, now including images and a link to the live website:
-
----
-
 # Workler
 
 **Workler** is a cutting-edge **job portal and professional networking platform** designed to connect employers, job seekers, and professionals in a seamless and interactive environment. With a user-centric interface and robust functionality, Workler helps users achieve their career goals effectively.
@@ -28,7 +24,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Responsive Design**: Optimized for all devices, ensuring a seamless user experience.  
 - **Engaging UI**: Smooth transitions, scroll effects, and modern animations enhance usability.  
 
-![Workler Job Search](https://i.imgur.com/4ss5Fng.png[/img])
+![Workler Job Search](https://i.imgur.com/RS60hdr.png[/img])
 
 ## Technology Stack
 
@@ -69,13 +65,3 @@ We welcome contributions to improve **Workler**! If you'd like to contribute:
 3. Commit your changes (`git commit -m "Add feature"`).  
 4. Push to your branch (`git push origin feature-name`).  
 5. Open a pull request.  
-
-## License
-
-This project is licensed under the **MIT License**. Feel free to use and modify it as per the license terms.
-
----
-
-*Note: Replace the placeholder image URLs with actual screenshots of your website hosted online. You can use services like [Imgur](https://imgur.com/) to upload your images and obtain direct links.*
-
-Let me know if you need any further adjustments! 😊 
