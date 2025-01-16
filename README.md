@@ -6,7 +6,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 
 **Workler** is a cutting-edge **job portal and professional networking platform** designed to connect employers, job seekers, and professionals in a seamless and interactive environment. With a user-centric interface and robust functionality, Workler helps users achieve their career goals effectively.
 
-![Workler Homepage](https://workler.in/images/homepage-screenshot.png)
+![Workler Homepage](https://i.imgur.com/wv4OSZA.png?1[/img])
 
 ## Features
 
@@ -28,7 +28,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Responsive Design**: Optimized for all devices, ensuring a seamless user experience.  
 - **Engaging UI**: Smooth transitions, scroll effects, and modern animations enhance usability.  
 
-![Workler Job Search](https://workler.in/images/job-search-screenshot.png)
+![Workler Job Search](https://workler.in/jobs)
 
 ## Technology Stack
 
@@ -48,7 +48,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Job Search Optimization**: Includes advanced matching for job requirements and keywords across various fields.  
 - **Scroll Management**: Innovative scroll interactions like scroll freezing and dynamic element positioning.  
 
-![Workler Profile Page](https://workler.in/images/profile-page-screenshot.png)
+![Workler Profile Page](https://workler.in/)
 
 ## Live Website
 
