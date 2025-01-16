@@ -48,7 +48,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Job Search Optimization**: Includes advanced matching for job requirements and keywords across various fields.  
 - **Scroll Management**: Innovative scroll interactions like scroll freezing and dynamic element positioning.  
 
-![Workler Profile Page](https://i.imgur.com/m0mPmb0.png[/img])
+![Workler Profile Page](https://i.imgur.com/Klx5Taz.png[/img])
 
 ## Live Website
 
