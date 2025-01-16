@@ -28,7 +28,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Responsive Design**: Optimized for all devices, ensuring a seamless user experience.  
 - **Engaging UI**: Smooth transitions, scroll effects, and modern animations enhance usability.  
 
-![Workler Job Search](https://workler.in/jobs)
+![Workler Job Search](https://i.imgur.com/4ss5Fng.png[/img])
 
 ## Technology Stack
 
@@ -48,7 +48,7 @@ Certainly! Here's an updated **README** for your **Workler** project, now includ
 - **Job Search Optimization**: Includes advanced matching for job requirements and keywords across various fields.  
 - **Scroll Management**: Innovative scroll interactions like scroll freezing and dynamic element positioning.  
 
-![Workler Profile Page](https://workler.in/)
+![Workler Profile Page](https://i.imgur.com/m0mPmb0.png[/img])
 
 ## Live Website
 
