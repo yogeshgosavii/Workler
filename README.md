@@ -1,12 +1,8 @@
-Certainly! Here's an updated **README** for your **Workler** project, now including images and a link to the live website:
-
----
-
 # Workler
 
 **Workler** is a cutting-edge **job portal and professional networking platform** designed to connect employers, job seekers, and professionals in a seamless and interactive environment. With a user-centric interface and robust functionality, Workler helps users achieve their career goals effectively.
 
-![Workler Homepage](https://via.placeholder.com/800x400?text=Workler+Homepage)
+![Workler Homepage](https://workler.in/)
 
 ## Features
 
